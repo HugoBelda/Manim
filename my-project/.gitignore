@@ -1,0 +1,33 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Manim output
+media/
+videos/
+images/
+*.mp4
+*.png
+*.mov
+*.gif
+
+# Logs and temp files
+*.log
+*.tmp
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# OS files
+Thumbs.db
