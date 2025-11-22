@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/hugobeldarevert/Code/Manim/media/videos/bike/720p30/partial_movie_files/BikeDrawing/2016333726_1899138445_223132457.mp4'
+file 'file:/Users/hugobeldarevert/Code/Manim/media/videos/bike/720p30/partial_movie_files/BikeDrawing/543634251_2835512508_184360877.mp4'
+file 'file:/Users/hugobeldarevert/Code/Manim/media/videos/bike/720p30/partial_movie_files/BikeDrawing/543634251_4144131807_253493954.mp4'
+file 'file:/Users/hugobeldarevert/Code/Manim/media/videos/bike/720p30/partial_movie_files/BikeDrawing/543634251_1470281781_2388323984.mp4'
+file 'file:/Users/hugobeldarevert/Code/Manim/media/videos/bike/720p30/partial_movie_files/BikeDrawing/543634251_1839128356_1033363489.mp4'
+file 'file:/Users/hugobeldarevert/Code/Manim/media/videos/bike/720p30/partial_movie_files/BikeDrawing/543634251_2274352166_1101682277.mp4'
+file 'file:/Users/hugobeldarevert/Code/Manim/media/videos/bike/720p30/partial_movie_files/BikeDrawing/543634251_1839128356_136543915.mp4'
